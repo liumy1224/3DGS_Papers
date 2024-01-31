@@ -66,6 +66,9 @@ Rendering](https://lfranke.github.io/trips/) **(NO CODE YET)**
 [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
 
 # Efficient Tools
+## Useful Tutorials
+[360 to 3DGS YOUTUBE](https://www.youtube.com/watch?v=LQNBTvgljAw&t=245s)
+
 ## UE Plugin
 [XVERSE 3D-GS UE Plugin](https://github.com/xverse-engine/XV3DGS-UEPlugin)
 
