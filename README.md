@@ -1,1 +1,1 @@
-# 3DGS_Papers
+# 3DGS_papers
