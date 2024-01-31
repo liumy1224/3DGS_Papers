@@ -60,10 +60,12 @@ Rendering](https://lfranke.github.io/trips/) **(NO CODE YET)**
 
 
 
-## Important 2D Generation
+## Important 2D 
 [Segment Anything](https://segment-anything.com/)
 
 [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
+
+[Photo Tourism: Exploring Photo Collections in 3D](https://dl.acm.org/doi/pdf/10.1145/1179352.1141964)
 
 # Efficient Tools
 ## UE Plugin
