@@ -65,7 +65,7 @@ Rendering](https://lfranke.github.io/trips/) **(NO CODE YET)**
 
 [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
 
-# Efficient Tool
+# Efficient Tools
 ## UE Plugin
 [XVERSE 3D-GS UE Plugin](https://github.com/xverse-engine/XV3DGS-UEPlugin)
 
