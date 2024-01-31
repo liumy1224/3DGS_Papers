@@ -10,7 +10,7 @@ Rendering](https://lfranke.github.io/trips/) **(NO CODE YET)**
 
 
 
-## Few Shot to 3D
+## Few Shots to 3D
 [FSGS: Real-Time Few-Shot View Synthesis using Gaussian Splatting](https://zehaozhu.github.io/FSGS/)
 
 [ReconFusion: 3D Reconstruction with Diffusion Priors](https://reconfusion.github.io/) **(NO CODE YET)** --with NeRF
