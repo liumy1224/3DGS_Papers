@@ -30,7 +30,7 @@ Rendering](https://lfranke.github.io/trips/) **(NO CODE YET)**
 [AGG: Amortized Generative 3D Gaussians for Single Image to 3D](https://ir1d.github.io/AGG/) **(NO CODE YET)**
 
 ## Procedural Generation 
-[Infinite Photorealistic Worlds using Procedural Generation](https://infinigen.org/)
+[Infinite Photorealistic Worlds using Procedural Generation](https://infinigen.org/) --with Mesh
 
 ## Street View to 3D
 [Street Gaussians for Modeling Dynamic Urban Scenes](https://zju3dv.github.io/street_gaussians/) **(NO CODE YET)**
