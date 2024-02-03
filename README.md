@@ -8,7 +8,7 @@ Rendering](https://lfranke.github.io/trips/) **(NO CODE YET)**
 
 [Deblurring 3D Gaussian Splatting](https://benhenryl.github.io/Deblurring-3D-Gaussian-Splatting/) **(NO CODE YET)**
 
-
+[Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering](https://city-super.github.io/scaffold-gs/)
 
 ## Few Shots to 3D
 [FSGS: Real-Time Few-Shot View Synthesis using Gaussian Splatting](https://zehaozhu.github.io/FSGS/)
@@ -54,6 +54,8 @@ Rendering](https://lfranke.github.io/trips/) **(NO CODE YET)**
 [GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions](https://gaussianeditor.github.io/) **(NO CODE YET)** 
 
 [Gaussian Grouping: Segment and Edit Anything in 3D Scenes](https://arxiv.org/abs/2312.00732)
+
+[ReplaceAnything3D: Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields](https://replaceanything3d.github.io/)  **(NO CODE YET)** --with NeRF
 
 ## 3DGS Compression
 [Compact 3D Gaussian Representation for Radiance Field](https://maincold2.github.io/c3dgs/)
