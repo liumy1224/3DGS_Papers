@@ -63,7 +63,7 @@ Rendering](https://lfranke.github.io/trips/)
 ## 3DGS Compression
 [Compact 3D Gaussian Representation for Radiance Field](https://maincold2.github.io/c3dgs/)
 
-
+[LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS](https://lightgaussian.github.io/)
 
 ## Important 2D 
 [Segment Anything](https://segment-anything.com/)
