@@ -17,6 +17,9 @@ Rendering](https://lfranke.github.io/trips/)
 
 [TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion](https://texturedreamer.github.io/) **(NO CODE YET)** --with Mesh
 
+[SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting](https://formycat.github.io/SparseGS-Real-Time-360-Sparse-View-Synthesis-using-Gaussian-Splatting/) **(NO CODE YET)**
+
+[360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming](https://arxiv.org/abs/2402.00763) **(NO CODE YET)**
 
 ## Text to 3D
 [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/) **(NO CODE YET)** --with NeRF
