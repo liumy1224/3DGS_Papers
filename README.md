@@ -48,6 +48,9 @@ Rendering](https://lfranke.github.io/trips/)
 
 [Segment Any 3D Gaussians](https://jumpat.github.io/SAGA/)
 
+[EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models](https://kmcode1.github.io/Projects/EmerDiff/)  **(NO CODE YET)** --2D
+
+
 ## 3DGS to Mesh
 [SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh](https://anttwo.github.io/sugar/)
 
