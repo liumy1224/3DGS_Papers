@@ -43,6 +43,8 @@ Rendering](https://lfranke.github.io/trips/)
 
 [FoV-NeRF: Foveated Neural Radiance Fields for Virtual Reality](https://ieeexplore.ieee.org/abstract/document/9872532)  **(NO CODE YET)** --with NeRF
 
+[VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality] (https://yingjiang96.github.io/VR-GS/)  **(NO CODE YET)** 
+
 ## Segmentation
 [LangSplat: 3D Language Gaussian Splatting](https://langsplat.github.io/)
 
