@@ -1,5 +1,9 @@
 # 3DGS PAPERS
 
+## Review
+[Progress and Prospects in 3D Generative AI: A Technical Overview including 3D human](https://arxiv.org/html/2401.02620v1) 
+"However, maintaining sufficient consistency across multiple images remains the biggest challenge in 3D generation."
+
 ## More Clear Scene
 [TRIPS: Trilinear Point Splatting for Real-Time Radiance Field
 Rendering](https://lfranke.github.io/trips/)
@@ -31,6 +35,8 @@ Rendering](https://lfranke.github.io/trips/)
 [DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation](https://dreamgaussian.github.io/)
 
 [AGG: Amortized Generative 3D Gaussians for Single Image to 3D](https://ir1d.github.io/AGG/) **(NO CODE YET)**
+
+[SceneDreamer: Unbounded 3D Scene Generation from 2D Image Collections](https://scene-dreamer.github.io/) Generate 3D model from single image in the wild and urban system
 
 ## Procedural Generation 
 [Infinite Photorealistic Worlds using Procedural Generation](https://infinigen.org/) --with Mesh
