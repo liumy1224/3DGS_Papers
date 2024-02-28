@@ -83,6 +83,10 @@ Rendering](https://lfranke.github.io/trips/)
 
 [Photo Tourism: Exploring Photo Collections in 3D](https://dl.acm.org/doi/pdf/10.1145/1179352.1141964)
 
+## Neural Surface Reconstruction
+
+[Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://research.nvidia.com/labs/dir/neuralangelo/)
+
 # Efficient Tools
 ## UE Plugin
 [XVERSE 3D-GS UE Plugin](https://github.com/xverse-engine/XV3DGS-UEPlugin)
