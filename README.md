@@ -45,7 +45,7 @@ Rendering](https://lfranke.github.io/trips/)
 [Street Gaussians for Modeling Dynamic Urban Scenes](https://zju3dv.github.io/street_gaussians/) **(NO CODE YET)**
 
 ## Interactive 3D
-[SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes](https://yihua7.github.io/SC-GS-web/) **(NO CODE YET)** 
+[SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes](https://yihua7.github.io/SC-GS-web/) 
 
 [FoV-NeRF: Foveated Neural Radiance Fields for Virtual Reality](https://ieeexplore.ieee.org/abstract/document/9872532)  **(NO CODE YET)** --with NeRF
 
