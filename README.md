@@ -4,7 +4,11 @@
 [Progress and Prospects in 3D Generative AI: A Technical Overview including 3D human](https://arxiv.org/html/2401.02620v1) 
 "However, maintaining sufficient consistency across multiple images remains the biggest challenge in 3D generation."
 
-## More Clear Scene
+## More Clear Scene and large scale
+[GaussianPro: 3D Gaussian Splatting with Progressive Propagation](https://github.com/kcheng1021/GaussianPro)
+
+[VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction](https://vastgaussian.github.io/) **(NO CODE YET)**
+
 [TRIPS: Trilinear Point Splatting for Real-Time Radiance Field
 Rendering](https://lfranke.github.io/trips/)
 
