@@ -87,6 +87,9 @@ Rendering](https://lfranke.github.io/trips/)
 
 [Photo Tourism: Exploring Photo Collections in 3D](https://dl.acm.org/doi/pdf/10.1145/1179352.1141964)
 
+## 4D Gaussian
+[GaussianHead: High-fidelity Head Avatars with Learnable Gaussian Derivation](https://chiehwangs.github.io/gaussian-head-page/)
+
 ## video creation and editing
 [BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models](https://github.com/MCG-NJU/BIVDiff)
 
